@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\vita\VitaConsoleApp\VitaConsoleApp\bin\Debug\net6.0\VitaConsoleApp.exe
+C:\Users\USER\source\repos\vita\VitaConsoleApp\VitaConsoleApp\bin\Debug\net6.0\VitaConsoleApp.deps.json
+C:\Users\USER\source\repos\vita\VitaConsoleApp\VitaConsoleApp\bin\Debug\net6.0\VitaConsoleApp.runtimeconfig.json
+C:\Users\USER\source\repos\vita\VitaConsoleApp\VitaConsoleApp\bin\Debug\net6.0\VitaConsoleApp.dll
+C:\Users\USER\source\repos\vita\VitaConsoleApp\VitaConsoleApp\bin\Debug\net6.0\VitaConsoleApp.pdb
+C:\Users\USER\source\repos\vita\VitaConsoleApp\VitaConsoleApp\obj\Debug\net6.0\VitaConsoleApp.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\vita\VitaConsoleApp\VitaConsoleApp\obj\Debug\net6.0\VitaConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\vita\VitaConsoleApp\VitaConsoleApp\obj\Debug\net6.0\VitaConsoleApp.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\vita\VitaConsoleApp\VitaConsoleApp\obj\Debug\net6.0\VitaConsoleApp.AssemblyInfo.cs
+C:\Users\USER\source\repos\vita\VitaConsoleApp\VitaConsoleApp\obj\Debug\net6.0\VitaConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\vita\VitaConsoleApp\VitaConsoleApp\obj\Debug\net6.0\VitaConsoleApp.dll
+C:\Users\USER\source\repos\vita\VitaConsoleApp\VitaConsoleApp\obj\Debug\net6.0\refint\VitaConsoleApp.dll
+C:\Users\USER\source\repos\vita\VitaConsoleApp\VitaConsoleApp\obj\Debug\net6.0\VitaConsoleApp.pdb
+C:\Users\USER\source\repos\vita\VitaConsoleApp\VitaConsoleApp\obj\Debug\net6.0\VitaConsoleApp.genruntimeconfig.cache
+C:\Users\USER\source\repos\vita\VitaConsoleApp\VitaConsoleApp\obj\Debug\net6.0\ref\VitaConsoleApp.dll
